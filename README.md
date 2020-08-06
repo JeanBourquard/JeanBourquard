@@ -1,7 +1,7 @@
 ### Hello there, I'm [Jean][website] 👋
 
 ## I'm a French developer living currently in South Korea !
-- 🔭 I’m currently working in a small company in South Korea
+- 🔭 I’m currently working in a startup company in South Korea
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new opportunities in Copenhagen
 - 🥅 2020 Goals: present my own video game at an exhibition
