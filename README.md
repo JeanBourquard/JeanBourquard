@@ -23,6 +23,7 @@
 <img align="left" alt="Blender3D" width="26px" src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
 <img align="left" alt="Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
+<img align="left" alt="RaspberryPi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Visual Studio IDE" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
